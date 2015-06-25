@@ -1,0 +1,30 @@
+C:\Users\User\Desktop\Kinect Video Recorder\Kinect Video Recorder\bin\Debug\Kinect Video Recorder.exe.config
+C:\Users\User\Desktop\Kinect Video Recorder\Kinect Video Recorder\bin\Debug\Kinect Video Recorder.exe
+C:\Users\User\Desktop\Kinect Video Recorder\Kinect Video Recorder\bin\Debug\Kinect Video Recorder.pdb
+C:\Users\User\Desktop\Kinect Video Recorder\Kinect Video Recorder\bin\Debug\Microsoft.Kinect.dll
+C:\Users\User\Desktop\Kinect Video Recorder\Kinect Video Recorder\bin\Debug\Microsoft.Kinect.xml
+C:\Users\User\Desktop\Kinect Video Recorder\Kinect Video Recorder\obj\Debug\Kinect Video Recorder.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Kinect Video Recorder\Kinect Video Recorder\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Kinect Video Recorder\Kinect Video Recorder\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Kinect Video Recorder\Kinect Video Recorder\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Kinect Video Recorder\Kinect Video Recorder\obj\Debug\Kinect Video Recorder_MarkupCompile.cache
+C:\Users\User\Desktop\Kinect Video Recorder\Kinect Video Recorder\obj\Debug\Kinect Video Recorder.g.resources
+C:\Users\User\Desktop\Kinect Video Recorder\Kinect Video Recorder\obj\Debug\Kinect_Video_Recorder.Properties.Resources.resources
+C:\Users\User\Desktop\Kinect Video Recorder\Kinect Video Recorder\obj\Debug\Kinect Video Recorder.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Kinect Video Recorder\Kinect Video Recorder\obj\Debug\Kinect Video Recorder.exe
+C:\Users\User\Desktop\Kinect Video Recorder\Kinect Video Recorder\obj\Debug\Kinect Video Recorder.pdb
+F:\Kinect Video Recorder\Kinect Video Recorder\bin\Debug\Kinect Video Recorder.exe.config
+F:\Kinect Video Recorder\Kinect Video Recorder\obj\Debug\Kinect Video Recorder.exe
+F:\Kinect Video Recorder\Kinect Video Recorder\obj\Debug\Kinect Video Recorder.pdb
+F:\Kinect Video Recorder\Kinect Video Recorder\bin\Debug\Kinect Video Recorder.exe
+F:\Kinect Video Recorder\Kinect Video Recorder\bin\Debug\Kinect Video Recorder.pdb
+F:\Kinect Video Recorder\Kinect Video Recorder\bin\Debug\Microsoft.Kinect.dll
+F:\Kinect Video Recorder\Kinect Video Recorder\bin\Debug\Microsoft.Kinect.xml
+F:\Kinect Video Recorder\Kinect Video Recorder\obj\Debug\Kinect Video Recorder.csprojResolveAssemblyReference.cache
+F:\Kinect Video Recorder\Kinect Video Recorder\obj\Debug\MainWindow.baml
+F:\Kinect Video Recorder\Kinect Video Recorder\obj\Debug\MainWindow.g.cs
+F:\Kinect Video Recorder\Kinect Video Recorder\obj\Debug\App.g.cs
+F:\Kinect Video Recorder\Kinect Video Recorder\obj\Debug\Kinect Video Recorder_MarkupCompile.cache
+F:\Kinect Video Recorder\Kinect Video Recorder\obj\Debug\Kinect Video Recorder.g.resources
+F:\Kinect Video Recorder\Kinect Video Recorder\obj\Debug\Kinect_Video_Recorder.Properties.Resources.resources
+F:\Kinect Video Recorder\Kinect Video Recorder\obj\Debug\Kinect Video Recorder.csproj.GenerateResource.Cache

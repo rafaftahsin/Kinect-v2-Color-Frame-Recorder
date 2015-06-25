@@ -1,0 +1,13 @@
+F:\Kinect Video Recorder\Kinect Video Recorder\bin\x64\Debug\Kinect Video Recorder.exe.config
+F:\Kinect Video Recorder\Kinect Video Recorder\bin\x64\Debug\Kinect Video Recorder.exe
+F:\Kinect Video Recorder\Kinect Video Recorder\bin\x64\Debug\Kinect Video Recorder.pdb
+F:\Kinect Video Recorder\Kinect Video Recorder\obj\x64\Debug\MainWindow.baml
+F:\Kinect Video Recorder\Kinect Video Recorder\obj\x64\Debug\MainWindow.g.cs
+F:\Kinect Video Recorder\Kinect Video Recorder\obj\x64\Debug\App.g.cs
+F:\Kinect Video Recorder\Kinect Video Recorder\obj\x64\Debug\Kinect Video Recorder_MarkupCompile.cache
+F:\Kinect Video Recorder\Kinect Video Recorder\obj\x64\Debug\Kinect Video Recorder.g.resources
+F:\Kinect Video Recorder\Kinect Video Recorder\obj\x64\Debug\Kinect_Video_Recorder.Properties.Resources.resources
+F:\Kinect Video Recorder\Kinect Video Recorder\obj\x64\Debug\Kinect Video Recorder.csproj.GenerateResource.Cache
+F:\Kinect Video Recorder\Kinect Video Recorder\obj\x64\Debug\Kinect Video Recorder.exe
+F:\Kinect Video Recorder\Kinect Video Recorder\obj\x64\Debug\Kinect Video Recorder.pdb
+F:\Kinect Video Recorder\Kinect Video Recorder\obj\x64\Debug\Kinect Video Recorder.csprojResolveAssemblyReference.cache
